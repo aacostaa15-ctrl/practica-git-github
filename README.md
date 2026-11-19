@@ -2,7 +2,7 @@
 
 Repositorio de la actividad grupal sobre los conceptos básicos de Git y GitHub.
 ## Docente
--Ingeniero Denis Mendoza
+- Ingeniero Denis Mendoza
 ## Integrantes
 - Anderson Acosta
 - Cristhoper Zambrano
