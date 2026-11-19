@@ -1,6 +1,6 @@
 # Actividad: Control de versiones con Git y GitHub
 
-Repositorio de la actividad grupal sobre los conceptos básicos de Git y GitHub.
+Repositorio del componente práctico sobre los conceptos básicos de Git y GitHub.
 ## Docente
 - Ingeniero Denis Mendoza
 ## Integrantes
